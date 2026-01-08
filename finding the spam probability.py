@@ -28,4 +28,5 @@ spam_probability = sigmoid(output_raw)
 print("n1 =", n1)
 print("n2 =", n2)
 print("Raw output =", output_raw)
+
 print("Spam probability =", spam_probability)
